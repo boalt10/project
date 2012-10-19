@@ -1,5 +1,5 @@
 <?php
-// die(print_r($node, 1));
+
 ?>
 <div id="node-<?php print $node->nid; ?>" class="<?php print $classes; ?>"<?php print $attributes; ?>>
 
