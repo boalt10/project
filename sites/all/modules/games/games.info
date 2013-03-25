@@ -1,4 +1,8 @@
 
 name = Games
 description = Games Module
-package = 
+package = Gaming Modules
+core = 7.x
+
+files[] = games.module
+files[] = games.install
